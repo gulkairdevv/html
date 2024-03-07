@@ -1,0 +1,76 @@
+body {
+  background: url("https://www.foto.online/cdn/shop/files/starte-mit-uns-in-deine-fotowelt-heb-mit-uns-ab.webp?v=1691740443&width=3000")
+    center/cover;
+}
+.block {
+  margin: 50px 500px;
+  padding: 70px 70px;
+  width: 300px;
+  height: 570px;
+  background: rgba(0, 0, 0, 0.75);
+  border-radius: 5px;
+}
+h1 {
+  color: white;
+}
+.email,
+.password {
+  width: 300px;
+  height: 45px;
+  background-color: #8c8c8c;
+  border: none;
+  border-radius: 6px;
+  padding-left: 20px;
+  color: white;
+  font-size: 17p;
+}
+.email ::placeholder {
+  color: white;
+}
+.password ::placeholder {
+  color: white;
+}
+button {
+  background: rgb(214, 49, 49);
+  width: 300px;
+  height: 40px;
+  border: none;
+  color: white;
+  font-size: 16px;
+  border-radius: 6px;
+  margin-bottom: 10px;
+}
+.center-input {
+  margin: 50px 0;
+}
+.check {
+  width: 15px;
+  height: 15px;
+}
+.check-span {
+  color: rgba(255, 255, 255, 0.564);
+  font-size: 13px;
+  margin-right: 90px;
+}
+.help-link {
+  color: rgba(255, 255, 255, 0.564);
+  font-size: 13px;
+}
+
+.p-netflix {
+  color: rgba(255, 255, 255, 0.564);
+  font-size: 17px;
+}
+
+.p-netflix a {
+  color: white;
+  font-size: 18px;
+}
+.google-text {
+  color: rgba(255, 255, 255, 0.564);
+  font-size: 14px;
+}
+.google-text span {
+  color: blue;
+  font-size: 16px;
+}
